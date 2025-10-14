@@ -1,3 +1,14 @@
+Team ID : LTVIP2025TMIDS67751
+
+Team Size : 3
+
+Team Leader : Syed Muskan
+
+Team member : Tatiparthi Revanth Reddy
+
+Team member : Gonugunta Bhavani Sankar Sai
+
+
 
 
 <h2 align="center">AI-powered Nutrition Analyzer for Fitness Enthusiasts  <a href="https://github.com/IBM-EPBL/IBM-Project-28381-1660111242" target="_blank"><picture>
