@@ -1,4 +1,4 @@
-![IBM-Project-35987-1660291368](https://socialify.git.ci/IBM-EPBL/IBM-Project-35987-1660291368/image?description=1&font=Bitter&forks=1&language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
+
 
 <h2 align="center">AI-powered Nutrition Analyzer for Fitness Enthusiasts  <a href="https://github.com/IBM-EPBL/IBM-Project-28381-1660111242" target="_blank"><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.webp" type="image/webp">
