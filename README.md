@@ -2,7 +2,7 @@ Team ID : LTVIP2025TMIDS67751
 
 Team Size : 3
 
-Team Leader : Syed Muskan
+Team Lead   : Syed Muskan
 
 Team member : Tatiparthi Revanth Reddy
 
